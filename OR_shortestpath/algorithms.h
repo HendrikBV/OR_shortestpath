@@ -1,6 +1,6 @@
 #pragma once
-#ifndef ALGORITHMS_RCPSP_H
-#define ALGORITHMS_RCPSP_H
+#ifndef ALGORITHMS_SP_H
+#define ALGORITHMS_SP_H
 
 
 #include <exception>
@@ -87,4 +87,4 @@ namespace SP // shortest path
 
 }
 
-#endif // ALGORITHMS_RCPSP_H
+#endif // ALGORITHMS_SP_H
